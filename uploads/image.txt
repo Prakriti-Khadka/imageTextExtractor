@@ -1,0 +1,14 @@
+5. box-sizing: border-box; :
+e Ensures padding and border are included in the container width.
+6. line-height: 1.6; :
+
+e Adds consistent spacing between lines of text.
+
+Result:
+
+With these adjustments, the extracted text from the image should now fit properly within the
+container, respecting line breaks and not overflowing the boundaries. Let me know if this resolves
+
+the issue or if further adjustments are needed!
+
+--------------------------------------------------
